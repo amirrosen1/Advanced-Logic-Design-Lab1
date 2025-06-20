@@ -1,0 +1,11 @@
+*.zip
+*.pdf
+*.docx
+*.vcd
+*.wlf
+transcript
+*.ini
+*.log
+*.bak
+*.json
+work/
